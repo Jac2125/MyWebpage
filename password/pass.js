@@ -9,7 +9,7 @@
                     
                 }else{
                     alert('Success');
-                    window.location.href = "https://github.com/Jac2125/MyWebpage/photo/photo.html";
+                    window.open("photo/photo.html");
 
                 }
         }
