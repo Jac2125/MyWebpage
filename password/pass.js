@@ -9,7 +9,7 @@
                     
                 }else{
                     alert('Success');
-                    window.location.href = "https://jac2125.github.io/jacc/photo.html";
+                    window.location.href = "https://jac2125.github.io/MyWebpage/photo/photo.html";
 
                 }
         }
