@@ -9,7 +9,8 @@
                     
                 }else{
                     alert('Success');
-                    window.open("photo/photo.html");
+                    //window.open("photo/photo.html");
+                    window.location.href = "https://jac2125.github.io/jacc/photo.html";
 
                 }
         }
